@@ -25,3 +25,9 @@ o/p 7:https://github.com/user-attachments/assets/3402e16c-be8e-494c-a5be-e5de46c
 
 o/p 8:https://github.com/user-attachments/assets/b38cb80a-439e-4237-9107-1307902d0f78
 
+
+o/p 9:https://github.com/user-attachments/assets/58fdc0c0-492f-4f5b-8939-8a0ad5acd883
+
+
+
+o/p 1
