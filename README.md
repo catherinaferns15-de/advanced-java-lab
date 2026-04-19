@@ -35,4 +35,7 @@ o/p 10:https://github.com/user-attachments/assets/d068a0e5-1cc1-4310-9e47-9a1d53
 
 2) o/p 2a:https://github.com/user-attachments/assets/674024c7-f8ae-40c9-89cf-a0be632168f5
 
+o/p 2b:https://github.com/user-attachments/assets/8d1a18a0-fed1-4a7e-a6fd-269b945aeb97
+
+
 
