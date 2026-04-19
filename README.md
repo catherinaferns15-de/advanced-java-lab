@@ -38,4 +38,11 @@ o/p 10:https://github.com/user-attachments/assets/d068a0e5-1cc1-4310-9e47-9a1d53
 o/p 2b:https://github.com/user-attachments/assets/8d1a18a0-fed1-4a7e-a6fd-269b945aeb97
 
 
+3) o/p 3a:https://github.com/user-attachments/assets/787ff667-15d3-481c-8f0b-4cb56ddc5eb2
+
+
+
+
+
+
 
