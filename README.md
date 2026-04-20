@@ -50,6 +50,6 @@ o/p 4:https://github.com/user-attachments/assets/fbd552db-cfa7-44c4-9a56-deb4a21
 
 o/p 5:https://github.com/user-attachments/assets/9ccd254a-b156-4a3b-84ca-2a4ad65aac16
 
+o/p 4 a)https://github.com/user-attachments/assets/c8dd3714-e2ef-4609-b0cc-3d6d4174bdc9
 
-o/p 4a):https://github.com/user-attachments/assets/a39ca44a-20fb-479f-9eff-e5b7d136c972
 
