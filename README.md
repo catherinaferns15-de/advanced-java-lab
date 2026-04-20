@@ -41,6 +41,9 @@ o/p 2b:https://github.com/user-attachments/assets/8d1a18a0-fed1-4a7e-a6fd-269b94
 3) o/p 3a:https://github.com/user-attachments/assets/787ff667-15d3-481c-8f0b-4cb56ddc5eb2
 
 
+o/p 2:https://github.com/user-attachments/assets/98625142-d880-435e-bfe0-f7bf4f805b9d
+
+o/p 3:
 
 
 
