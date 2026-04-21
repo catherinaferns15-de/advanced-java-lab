@@ -57,4 +57,7 @@ o/p 4 b)https://github.com/user-attachments/assets/b6d4ac76-8b5a-4b47-9c22-dcc37
 
 o/p 5 a)https://github.com/user-attachments/assets/9f8ab4ec-744a-41f3-a5cf-bf48ed43f042
 
+o/p 5b)https://github.com/user-attachments/assets/199f39aa-d7da-4a73-886c-9b827dd9738c
+
+
 
