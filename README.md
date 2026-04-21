@@ -49,7 +49,8 @@ o/p 4:https://github.com/user-attachments/assets/fbd552db-cfa7-44c4-9a56-deb4a21
 
 o/p 5:https://github.com/user-attachments/assets/c2e1149c-18eb-4b61-b6f1-abd1727423d3
 
-o/p 6:
+o/p 6:https://github.com/user-attachments/assets/fd98df87-aff7-4938-8649-2d7eed7f1992
+
 
 o/p 4 a)https://github.com/user-attachments/assets/c8dd3714-e2ef-4609-b0cc-3d6d4174bdc9
 
