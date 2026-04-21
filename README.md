@@ -51,6 +51,9 @@ o/p 5:https://github.com/user-attachments/assets/c2e1149c-18eb-4b61-b6f1-abd1727
 
 o/p 6:https://github.com/user-attachments/assets/fd98df87-aff7-4938-8649-2d7eed7f1992
 
+o/p 7:https://github.com/user-attachments/assets/a1ae9e3f-4848-4255-b498-d8a000dc4728
+
+
 
 o/p 4 a)https://github.com/user-attachments/assets/c8dd3714-e2ef-4609-b0cc-3d6d4174bdc9
 
