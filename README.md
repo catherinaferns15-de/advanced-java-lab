@@ -53,6 +53,11 @@ o/p 6:https://github.com/user-attachments/assets/fd98df87-aff7-4938-8649-2d7eed7
 
 o/p 7:https://github.com/user-attachments/assets/a1ae9e3f-4848-4255-b498-d8a000dc4728
 
+o/p 8:https://github.com/user-attachments/assets/f9375e3c-f3a1-4331-bb65-8c25958e1082
+
+o/p 9:
+
+o/p 10:
 
 
 o/p 4 a)https://github.com/user-attachments/assets/c8dd3714-e2ef-4609-b0cc-3d6d4174bdc9
